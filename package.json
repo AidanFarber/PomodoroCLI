@@ -1,0 +1,23 @@
+{
+  "name": "ptimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/ptimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "ptimer": "./bin/ptimer.js"
+  },
+  "dependencies": {
+    "boxen": "^7.0.2",
+    "chalk": "^4.1.2",
+    "growl": "^1.10.5",
+    "inquirer": "^8.0.0",
+    "node-notifier": "^10.0.1",
+    "play-sound": "^1.1.5"
+  }
+}

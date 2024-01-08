@@ -1,3 +1,5 @@
+> cli timer for efficient work sessions written in JavaScript
+
 # PomodoroCLI
 A fairly simple command line based pomodoro timer for MacOS I wrote for myself. 
 I mainly use Neovim for my development and Pomodoro helps me regularly get my work done, so I simply combined the two!
